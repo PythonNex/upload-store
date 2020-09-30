@@ -1,4 +1,4 @@
-# UploadStore
+# UploadStore The best We are 
 
 Rails is terrible at streaming uploaded files. So, move that upload handling to what ever file store your already using and rely on ruby to handle the processing.
 
